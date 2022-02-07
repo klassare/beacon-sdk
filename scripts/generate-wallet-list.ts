@@ -43,7 +43,7 @@ export const webList: WebApp[] = [
       [NetworkType.EDONET]: 'https://edonet.kukai.app',
       [NetworkType.FLORENCENET]: 'https://florencenet.kukai.app',
       [NetworkType.GRANADANET]: 'https://granadanet.kukai.app',
-      [NetworkType.HANGZHOUNET]: 'https://hangzhounet.kukai.app',
+      [NetworkType.HANGZHOUNET]: 'https://bridge-transport.kukai-private.pages.dev',
       [NetworkType.IDIAZABALNET]: 'https://idiazabalnet.kukai.app'
     }
   }

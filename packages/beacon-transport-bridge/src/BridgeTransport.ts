@@ -19,7 +19,7 @@ const createBeaconBridge = () => {
   var iframe = document.createElement('iframe')
   iframe.setAttribute(
     'src',
-    `https://airgap-it.github.io/beacon-iframe-bridge/bridge.html?parent=${encodeURIComponent(
+    `https://www.tezos.help/bridge-1/bridge.html?parent=${encodeURIComponent(
       windowRef.location.origin
     )}`
   )
